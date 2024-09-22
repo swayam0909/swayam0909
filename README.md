@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Android Development*
 
-- 💬 Ask me about *Andrid , DSA*
+- 💬 Ask me about *Android , DSA*
 
 - 📫 How to reach me *swayamraj0909@gmail.com*
 
